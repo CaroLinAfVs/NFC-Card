@@ -4,7 +4,7 @@ function App() {
       <div className="bg-[#14253d] p-6	max-w-xs  h-[580px] rounded-xl shadow-3xl">
         <img className="rounded-xl" src="./equilibrium.jpeg" alt="" />
         <div className=" pt-7 ">
-            <a className="text-2xl py-2 text-white font-bold focus:border-2 focus:border-dashed focus:border-[#00fff7] focus:outline-none hover:text-[#00fff7] " href="">
+            <a className="text-2xl py-2 text-white font-bold focus:border-2 focus:border-dashed focus:border-[#00fff7] focus:outline-none hover:text-[#00fff7]" href="#">
               Equilibrium #3429
             </a>
           <p className="my-5 text-lg text-[#8bacda]">
